@@ -1,8 +1,8 @@
-###### **📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
+**📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
 
 
 
-###### 📌 **Project Overview**
+📌 **Project Overview**
 
 This Power BI project is an interactive Sales Performance and Profitability Dashboard designed to analyze sales, profit, customers, products, regions, categories, discounts, and salesperson performance.
 
@@ -10,9 +10,9 @@ The dashboard consists of 3 interactive pages, providing both high-level busines
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### 📑 **Dashboard Pages**
+ 📑 **Dashboard Pages**
 
-###### 🟦 **Page 1 — Sales Summary**
+🟦 **Page 1 — Sales Summary**
 
 Provides an overall view of business performance through key KPIs and visualizations.
 
