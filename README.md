@@ -1,8 +1,8 @@
-**📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
+## **📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
 
 
 
-📌 **Project Overview**
+## 📌 **Project Overview**
 
 This Power BI project is an interactive Sales Performance and Profitability Dashboard designed to analyze sales, profit, customers, products, regions, categories, discounts, and salesperson performance.
 
@@ -10,9 +10,9 @@ The dashboard consists of 3 interactive pages, providing both high-level busines
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 📑 **Dashboard Pages**
+## 📑 **Dashboard Pages**
 
-🟦 **Page 1 — Sales Summary**
+## 🟦 **Page 1 — Sales Summary**
 
 Provides an overall view of business performance through key KPIs and visualizations.
 
@@ -50,7 +50,7 @@ This page helps users quickly understand the company's overall sales and profita
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **🟩 Page 2 — Product \& Customer Analysis**
+## **🟩 Page 2 — Product \& Customer Analysis**
 
 Focuses on product performance and customer purchasing behavior.
 
@@ -74,7 +74,7 @@ This page helps identify top-performing products, profitable categories, high-va
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **🟧 Page 3 — Salesperson \& Profitability**
+## **🟧 Page 3 — Salesperson \& Profitability**
 
 Analyzes individual salesperson performance and profitability.
 
@@ -98,7 +98,7 @@ This page provides a detailed view of salesperson contribution, profitability, d
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **🛠️ Tools \& Technologies**
+## **🛠️ Tools \& Technologies**
 
 •	Power BI Desktop
 
@@ -118,7 +118,7 @@ This page provides a detailed view of salesperson contribution, profitability, d
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **📊 Key Business Insights**
+## **📊 Key Business Insights**
 
 The dashboard can be used to answer questions such as:
 
@@ -144,13 +144,13 @@ The dashboard can be used to answer questions such as:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **🎯 Project Objective**
+## **🎯 Project Objective**
 
 The primary objective of this project is to transform raw sales transaction data into an interactive business intelligence dashboard that enables users to monitor KPIs, analyze trends, compare performance, and make data-driven business decisions.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **📁 Dashboard Structure**
+## **📁 Dashboard Structure**
 
 Page	Focus Area	Main Purpose
 
@@ -162,7 +162,7 @@ Page	Focus Area	Main Purpose
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **🚀 Skills Demonstrated**
+## **🚀 Skills Demonstrated**
 
 This project demonstrates practical experience in:
 
@@ -192,13 +192,13 @@ This project demonstrates practical experience in:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **📷 Dashboard Preview**
+## **📷 Dashboard Preview**
 
 Screenshots of the Power BI dashboard are included in this repository to demonstrate the interactive reports and visualizations.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###### **💡 Conclusion**
+## **💡 Conclusion**
 
 This project provides a comprehensive view of sales operations by combining KPIs, trends, product analysis, customer analysis, regional performance, salesperson performance, and profitability metrics into a single interactive Power BI solution.
 
