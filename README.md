@@ -1,206 +1,206 @@
-# **📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
+###### **📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
 
-# 
 
-# 📌 **Project Overview**
 
-# This Power BI project is an interactive Sales Performance and Profitability Dashboard designed to analyze sales, profit, customers, products, regions, categories, discounts, and salesperson performance.
+###### 📌 **Project Overview**
 
-# The dashboard consists of 3 interactive pages, providing both high-level business KPIs and detailed analysis to help identify sales trends, profitable products, customer behavior, and salesperson performance.
+This Power BI project is an interactive Sales Performance and Profitability Dashboard designed to analyze sales, profit, customers, products, regions, categories, discounts, and salesperson performance.
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+The dashboard consists of 3 interactive pages, providing both high-level business KPIs and detailed analysis to help identify sales trends, profitable products, customer behavior, and salesperson performance.
 
-# 📑 **Dashboard Pages**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# 🟦 **Page 1 — Sales Summary**
+###### 📑 **Dashboard Pages**
 
-# Provides an overall view of business performance through key KPIs and visualizations.
+###### 🟦 **Page 1 — Sales Summary**
 
-# Key Metrics:
+Provides an overall view of business performance through key KPIs and visualizations.
 
-# •	💰 Total Sales
+Key Metrics:
 
-# •	📈 Total Profit
+•	💰 Total Sales
 
-# •	🛒 Total Orders
+•	📈 Total Profit
 
-# •	👥 Total Customers
+•	🛒 Total Orders
 
-# •	📦 Total Quantity Sold
+•	👥 Total Customers
 
-# •	💵 Average Order Value
+•	📦 Total Quantity Sold
 
-# •	📊 Profit Margin %
+•	💵 Average Order Value
 
-# •   💰 Sales MTD
+•	📊 Profit Margin %
 
-# 
+•   💰 Sales MTD
 
-# &#x20; **Visual Analysis:**
 
-# •	Monthly Sales Trend
 
-# •	Sales by Region
+&#x20; Visual Analysis:
 
-# •	Sales by Category
+•	Monthly Sales Trend
 
-# •	Profit by Region
+•	Sales by Region
 
-# This page helps users quickly understand the company's overall sales and profitability performance.
+•	Sales by Category
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+•	Profit by Region
 
-# **🟩 Page 2 — Product \& Customer Analysis**
+This page helps users quickly understand the company's overall sales and profitability performance.
 
-# Focuses on product performance and customer purchasing behavior.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# Analysis Included:
+###### **🟩 Page 2 — Product \& Customer Analysis**
 
-# •	Category-wise Sales \& Profit
+Focuses on product performance and customer purchasing behavior.
 
-# •	Sub-Category-wise Sales
+Analysis Included:
 
-# •	Product-wise Quantity Sold
+•	Category-wise Sales \& Profit
 
-# •	Customer Order Count
+•	Sub-Category-wise Sales
 
-# •	Average Customer Sales
+•	Product-wise Quantity Sold
 
-# •	Product Performance Matrix
+•	Customer Order Count
 
-# •	Discount vs Sales Analysis
+•	Average Customer Sales
 
-# This page helps identify top-performing products, profitable categories, high-value customers, and the relationship between discounts and sales.
+•	Product Performance Matrix
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+•	Discount vs Sales Analysis
 
-# **🟧 Page 3 — Salesperson \& Profitability**
+This page helps identify top-performing products, profitable categories, high-value customers, and the relationship between discounts and sales.
 
-# Analyzes individual salesperson performance and profitability.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# Analysis Included:
+###### **🟧 Page 3 — Salesperson \& Profitability**
 
-# •	Salesperson-wise Sales
+Analyzes individual salesperson performance and profitability.
 
-# •	Salesperson-wise Profit
+Analysis Included:
 
-# •	Salesperson Performance Table
+•	Salesperson-wise Sales
 
-# •	Highest Performing Salesperson
+•	Salesperson-wise Profit
 
-# •	Profit Margin by Category
+•	Salesperson Performance Table
 
-# •	Discount % Analysis
+•	Highest Performing Salesperson
 
-# •	Detailed Sales Transaction Table
+•	Profit Margin by Category
 
-# This page provides a detailed view of salesperson contribution, profitability, discount impact, and individual transaction-level performance.
+•	Discount % Analysis
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+•	Detailed Sales Transaction Table
 
-# **🛠️ Tools \& Technologies**
+This page provides a detailed view of salesperson contribution, profitability, discount impact, and individual transaction-level performance.
 
-# •	Power BI Desktop
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# •	Power Query — Data cleaning and transformation
+###### **🛠️ Tools \& Technologies**
 
-# •	DAX — Measures and calculated metrics
+•	Power BI Desktop
 
-# •	Data Modeling — Relationships between tables
+•	Power Query — Data cleaning and transformation
 
-# •	Interactive Visualizations
+•	DAX — Measures and calculated metrics
 
-# •	Slicers \& Filters
+•	Data Modeling — Relationships between tables
 
-# •	KPI Cards
+•	Interactive Visualizations
 
-# •	Matrix \& Table Visuals
+•	Slicers \& Filters
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+•	KPI Cards
 
-# **📊 Key Business Insights**
+•	Matrix \& Table Visuals
 
-# The dashboard can be used to answer questions such as:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# •	What are the total sales and total profit?
+###### **📊 Key Business Insights**
 
-# •	How are sales trending month by month?
+The dashboard can be used to answer questions such as:
 
-# •	Which region generates the highest sales and profit?
+•	What are the total sales and total profit?
 
-# •	Which categories and sub-categories perform best?
+•	How are sales trending month by month?
 
-# •	Which products have the highest quantity sold?
+•	Which region generates the highest sales and profit?
 
-# •	Which customers generate the most sales?
+•	Which categories and sub-categories perform best?
 
-# •	Which salesperson generates the highest sales and profit?
+•	Which products have the highest quantity sold?
 
-# •	How do discounts affect sales performance?
+•	Which customers generate the most sales?
 
-# •	Which categories have the highest profit margins?
+•	Which salesperson generates the highest sales and profit?
 
-# •	Which products and customers require further attention?
+•	How do discounts affect sales performance?
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+•	Which categories have the highest profit margins?
 
-# **🎯 Project Objective**
+•	Which products and customers require further attention?
 
-# The primary objective of this project is to transform raw sales transaction data into an interactive business intelligence dashboard that enables users to monitor KPIs, analyze trends, compare performance, and make data-driven business decisions.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+###### **🎯 Project Objective**
 
-# **📁 Dashboard Structure**
+The primary objective of this project is to transform raw sales transaction data into an interactive business intelligence dashboard that enables users to monitor KPIs, analyze trends, compare performance, and make data-driven business decisions.
 
-# Page	Focus Area	Main Purpose
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# 1	Sales Summary	Overall sales \& profitability
+###### **📁 Dashboard Structure**
 
-# 2	Product \& Customer Analysis	Product and customer performance
+Page	Focus Area	Main Purpose
 
-# 3	Salesperson \& Profitability	Salesperson and profitability analysis
+1	Sales Summary	Overall sales \& profitability
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2	Product \& Customer Analysis	Product and customer performance
 
-# **🚀 Skills Demonstrated**
+3	Salesperson \& Profitability	Salesperson and profitability analysis
 
-# This project demonstrates practical experience in:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# •	Data Analysis
+###### **🚀 Skills Demonstrated**
 
-# •	Business Intelligence
+This project demonstrates practical experience in:
 
-# •	Power BI Dashboard Development
+•	Data Analysis
 
-# •	Data Cleaning \& Transformation
+•	Business Intelligence
 
-# •	DAX Measures
+•	Power BI Dashboard Development
 
-# •	Data Modeling
+•	Data Cleaning \& Transformation
 
-# •	KPI Development
+•	DAX Measures
 
-# •	Sales \& Profitability Analysis
+•	Data Modeling
 
-# •	Customer Analysis
+•	KPI Development
 
-# •	Product Analysis
+•	Sales \& Profitability Analysis
 
-# •	Performance Analysis
+•	Customer Analysis
 
-# •	Interactive Dashboard Design
+•	Product Analysis
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+•	Performance Analysis
 
-# **📷 Dashboard Preview**
+•	Interactive Dashboard Design
 
-# Screenshots of the Power BI dashboard are included in this repository to demonstrate the interactive reports and visualizations.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+###### **📷 Dashboard Preview**
 
-# **💡 Conclusion**
+Screenshots of the Power BI dashboard are included in this repository to demonstrate the interactive reports and visualizations.
 
-# This project provides a comprehensive view of sales operations by combining KPIs, trends, product analysis, customer analysis, regional performance, salesperson performance, and profitability metrics into a single interactive Power BI solution.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# It demonstrates how Power BI can be used to convert transactional sales data into meaningful and actionable business insights.
+###### **💡 Conclusion**
+
+This project provides a comprehensive view of sales operations by combining KPIs, trends, product analysis, customer analysis, regional performance, salesperson performance, and profitability metrics into a single interactive Power BI solution.
+
+It demonstrates how Power BI can be used to convert transactional sales data into meaningful and actionable business insights.
 
