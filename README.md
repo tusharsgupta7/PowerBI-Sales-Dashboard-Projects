@@ -1,5 +1,7 @@
 ## **📊 Sales Performance \& Profitability Dashboard Detail — Power BI**
 
+![image alt] (https://github.com/tusharsgupta7/PowerBI-Sales-Dashboard-Projects/blob/8131a7239a6b942e4175a86f5b9d2609a12bb5ff/Sales%20Data%20Dashboard%20.pdf)
+
 
 
 ## 📌 **Project Overview**
