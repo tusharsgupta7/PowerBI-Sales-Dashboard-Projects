@@ -4,12 +4,8 @@
 
  ## 📊 Dashboard Visualization
 
- ![image alt] (https://github.com/tusharsgupta7/PowerBI-Sales-Dashboard-Projects/blob/2c0cc71b236872f9f250b7507ec29d2a73f17f85/Sales%20Dashboard%20Screeshot/Screenshot%202026-09-23%20150657.png)
-
-
+ ![image alt] (https://github.com/tusharsgupta7/PowerBI-Sales-Dashboard-Projects/blob/6f959ccbeb82dea2baa6dc0e341797f87a834206/Sales%20Dashboard%20Screeshot/Screenshot%202026-09-23%20150657.png)
  
-![image alt] (https://github.com/tusharsgupta7/PowerBI-Sales-Dashboard-Projects/blob/8131a7239a6b942e4175a86f5b9d2609a12bb5ff/Sales%20Data%20Dashboard%20.pdf)
-
 
 
 ## 📌 **Project Overview**
