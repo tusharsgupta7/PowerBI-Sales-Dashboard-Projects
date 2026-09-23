@@ -4,7 +4,7 @@
 
  ## 📊 Dashboard Visualization
 
- ![image alt] (![imagealt](https://github.com/tusharsgupta7/PowerBi-Mahadev-Ecommerce-Sales-Data-dashboard/blob/3d8f6df1cdb70888d4298bb4f8e9434096c31519/Mahadev%20Ecommerce%20Sales%20Data.png)
+ ![image alt] (![imagealt](https://github.com/tusharsgupta7/PowerBI-Sales-Dashboard-Projects/blob/00dee090adcdccc2f0ddfcec6edf2bd82c9ad4ae/Sales%20Dashboard%20Screeshot/Screenshot%202026-09-23%20150657.png)
 
 
 ## 📌 **Project Overview**
