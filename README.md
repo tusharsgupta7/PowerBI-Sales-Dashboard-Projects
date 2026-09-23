@@ -14,7 +14,7 @@ The dashboard consists of 3 interactive pages, providing both high-level busines
 
 ## 🟦 **Page 1 — Sales Summary**
 
-Provides an overall view of business performance through key KPIs and visualizations.
+Provides an overall view of business performance through key KPIs and visualization.
 
 Key Metrics:
 
